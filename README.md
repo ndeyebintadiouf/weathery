@@ -1,4 +1,4 @@
-# 🌦️ WeatherNow
+# 🌦️ Weathery
 
 Mini application météo construite avec React + TypeScript.
 
